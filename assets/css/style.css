@@ -58,3 +58,16 @@ vhigh{
     padding-right: 2rem;
     margin-right: 1rem;
 }
+
+.card_blue{
+    background-color: aqua;
+    color:black
+}
+
+.buttonHistory{
+    background-color:lightblue;
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+    margin: 0px 0px 5px 0px;
+}
