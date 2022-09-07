@@ -391,7 +391,7 @@ async function historyB(nameButton) {
     let indexUV = data2['result'].uv
     console.log(indexUV)
 
-    //Rick 8/29/22 
+    //R 8/29/22 
     console.log(data)
     fiveDays.style.visibility = "visible";
 
